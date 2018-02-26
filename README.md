@@ -110,12 +110,12 @@ I decided to go for the suggestions from class and use white and yellow filter i
 
 [//]: # (Image References)
 
-[image1]: ./project_images/chess.png "Undistorted"
-[image2]: ./project_images/undistort2.png
-[image3]: ./project_images/combine.png
-[image4]: ./project_images/combine2.png
-[image5]: ./project_images/transform.png
+[image1]: ./images/chess.png "Undistorted"
+[image2]: ./images/undistort2.png
+[image3]: ./images/combine.png
+[image4]: ./images/combine2.png
+[image5]: ./images/transform.png
 
-[image6]: ./project_images/poly.png "Fit Visual"
-[image7]: ./project_images/output.png "Output"
+[image6]: ./images/poly.png "Fit Visual"
+[image7]: ./images/output.png "Output"
 [video1]: ./project_video_output.mp4 "Video"
